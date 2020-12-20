@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'screens/fingerprint.dart';
-import 'screens/pin.dart';
-import 'screens/loading.dart';
+import 'package:album_app/screens/fingerprint.dart';
+import 'package:album_app/screens/pin.dart';
+import 'package:album_app/screens/loading.dart';
+import 'package:album_app/screens/dashboard.dart';
 
-import 'screens/dashboard.dart';
 import 'package:provider/provider.dart';
 import 'bloc/theme.dart';
 
